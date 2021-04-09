@@ -1,6 +1,6 @@
 # Spotify Analysis
 
-6 weeks ago I began my journey both into coding and data analysis. 
+In the beginning of March, I began my journey both into coding and data analysis. 
 After taking a course on Codecademy, I wanted to see what I could do with Python. 
 
 I've been a music lover ever since I was a young kid and have used Spotify for the last 8 years. 
